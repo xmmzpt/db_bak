@@ -670,7 +670,7 @@
 		"name": "超级蒙恬(群友定制，未完工)",
 		"free": "true",
 		"url": [{
-			"url": "https://xmmz1.coding.net/p/game/d/yu1136117475/git/raw/master/txtwj/群友txt/蒙恬6.txt",
+			"url": "/DB/txtwj/群友txt/蒙恬6.txt",
 			"type": "6"
 		}],
 		"text": "正面免伤(70+10)％，全伤害真伤，一枪固定回最大生命值的20％\n普攻暂无真伤",
