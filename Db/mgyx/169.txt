@@ -1,0 +1,14 @@
+20064
+Var #984DF880|984df880|4|64|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|a7880
+Var #984DF888|984df888|4|2710|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|a7888
+Var #984DF88C|984df88c|4|28b04|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|a788c
+Var #984DF894|984df894|4|26ca8|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|a7894
+Var #984DF898|984df898|4|26ca8|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|a7898
+Var #984DF89C|984df89c|4|22b8|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|a789c
+Var #984DF8A0|984df8a0|4|22b8|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|a78a0
+Var #984DF8A8|984df8a8|4|4a38|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|a78a8
+Var #984DF908|984df908|4|29d6|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|a7908
+Var #984DF91C|984df91c|4|3b7e|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|a791c
+Var #984DF930|984df930|4|3926|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|a7930
+Var #984DF944|984df944|4|3282|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|a7944
+Var #984DFA38|984dfa38|4|dbba0|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|a7a38

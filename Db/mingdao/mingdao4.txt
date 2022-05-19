@@ -1,0 +1,5 @@
+3520
+最高冷却|a11b50c0|4|2706|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|109d0c0
+最低冷却|a11b50c4|4|2710|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|109d0c4
+最高冷却|a11b5198|4|2706|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|109d198
+最低冷却|a11b519c|4|2710|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|109d19c

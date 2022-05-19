@@ -1,0 +1,4 @@
+20821
+Var #8FD3390C|8fd3390c|4|2710|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|16af70c
+Var #8FD33910|8fd33910|4|bb8|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|16af710
+Var #8FD33914|8fd33914|4|bb8|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|16af714

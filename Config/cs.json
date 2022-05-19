@@ -1,0 +1,78 @@
+{
+    "dbname" :"列表分组的名称，留空将不显示此分组",
+    "dbtext":"列表分组的说明",
+    "jsonname":"脚本分组的名称，留空将不显示此分组",
+    "jsontext":"脚本分组的说明",
+    "ftyname":"模型分组的名称，留空将不显示此分组",
+    "ftytext":"模型分组的说明",
+    "db": [{//db下存储的都是保存出来的列表
+			"name": "功能名称",
+            "free":"true",//为true时为不限制开放，否则需要验证
+			"url": [{
+				"url": "https://gitee.com/zeitu/game/raw/master/wzry/KELE/S25/Db/pifu/p11.txt",//列表文件链接
+				"type": "0"//列表的类型，会根据类型计算偏移
+			},{
+				"url": "https://gitee.com/zeitu/game/raw/master/wzry/KELE/S25/Db/pifu/p12.txt",//列表文件链接
+				"type": "1"//列表的类型，会根据类型计算偏移
+			}],
+			"text": "功能说明",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/111/111-smallskin-9.jpg"//功能的图标
+		},{
+			"name": "无限火力(全英雄无CD版有后摇)",
+            "free":"true",
+			"url": [{
+				"url": "https://gitee.com/zeitu/game/raw/master/wzry/KELE/S25/Db/wxhl/wxhl1.txt",
+				"type": "8" //列表的类型，会根据类型计算偏移
+			}, {
+				"url": "https://gitee.com/zeitu/game/raw/master/wzry/KELE/S25/Db/wxhl/wxhl5.txt",
+				"type": "5" //列表的类型，会根据类型计算偏移
+			}],
+			"text": "解锁选区界面右边单机模式\n开局满级，6.5w金币\n全英雄无CD无蓝耗技能后摇无修改",
+			"img": "https://z3.ax1x.com/2021/02/26/yxve2D.jpg"
+		}],
+        "json": [{//json下存储的都是各种可乐脚本
+			"name": "脚本名称",
+			"url": "https://gitee.com/zeitu/game/raw/master/wzry/KELE/S25/Json/10003.json",//脚本的文本链接
+			"text": "脚本介绍",
+			"img": "https://z3.ax1x.com/2021/02/26/yxve2D.jpg"//脚本图标
+		},{
+			"name": "廉颇修改为其他英雄",
+			"url": "https://gitee.com/zeitu/game/raw/master/wzry/KELE/S25/Json/10015.json",
+			"text": "输入英雄代码即可修改为其他英雄\n此功能由四群:2795846542 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/105/105.jpg"
+		}],
+        "fty": [{
+				"name": "工厂模型名称",
+				"url": [],//预先加载的内容，此处的规范参考db的Url
+				"text": "工厂模型介绍",
+				"img": "https://game.gtimg.cn/images/yxzj/img201606/summoner/80102.jpg",//工厂模型图标
+				"set": [{
+					"type": "11", //特征类型
+					"name": "治疗",//单条属性的名称
+					"index": ["1798c3c"] //地址，多个地址用,分割  如["1581C4","1581C8"]
+				},{
+					"type": "11", //特征类型
+					"name": "眩晕",
+					"index": ["1798cdc"] //地址，多个地址用,分割  如["1581C4","1581C8"]
+				},{
+					"type": "11", //特征类型
+					"name": "惩击",
+					"index": ["1798c14"] //地址，多个地址用,分割  如["1581C4","1581C8"]
+				}]
+			},{
+				"name": "技能存储器 代号2",
+				"url": [],
+				"text": "修改技能存储数量和时间，需配合工厂模式里的英雄属性使用",
+				"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/196/19610.png",
+				"set": [{
+					"type": "16",
+					"name": "存储数量上限",
+					"index": ["eff48"]
+				}, {
+					"type": "16",
+					"name": "存储时间(必须大于0，否则会不加数量)",
+					"index": ["eff58"]
+				} ]
+			}
+		]
+        }

@@ -1,0 +1,4 @@
+S25
+Var #A0427D70|a0427d70|4|1|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|30fd74
+S26
+Var #A0427D70|a0427d70|4|1|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|38bd2c

@@ -1,0 +1,6 @@
+3520远
+Var #A112CF28|a112cf28|4|0|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|101e768
+Var #A2376740|a2376740|4|0|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|2271e30
+3520近
+Var #A111B5F8|a111b5f8|4|0|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|100CC28
+Var #A236C2F0|a236c2f0|4|0|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|22679e0

@@ -1,0 +1,2 @@
+最高韧性|8f85b48c|4|2706|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|11d748c
+最高冷却|8f85b4a4|4|2706|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|11d74a4

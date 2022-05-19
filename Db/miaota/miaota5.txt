@@ -1,0 +1,5 @@
+3520
+Var #8ED03C84|8ed03c84|4|3282|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|7fc84
+Var #8ED03CCC|8ed03ccc|4|f00|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|7fccc
+Var #8ED03D24|8ed03d24|4|ff55|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|7fd24
+

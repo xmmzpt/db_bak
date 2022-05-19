@@ -1,0 +1,4 @@
+3520东皇
+Var #A01C2810|a01c2810|4|4916|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|aa810
+3520张良
+Var #A01BE030|a01be030|4|3cfa|1|0|0|0|r--p|/data/data/com.tencent.tmgp.sgame/files/dataCache.db|a6030
