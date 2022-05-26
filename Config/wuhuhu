@@ -1,6 +1,6 @@
 {
 	"typelist": [{
-		"name": "英雄脚本(待上传)",
+		"name": "英雄脚本",
 		"text": "英雄的各项属性和技能修改",
 		"type": "json"
 	}, {
@@ -9,246 +9,252 @@
 		"type": "json"
 	}, {
 		"name": "旧版英雄(待上传)",
-		"text": "由 2795846542 负责管理",
+		"text": "由 9527 负责管理",
 		"type": "db"
 	}, {
-		"name": "地图脚本（不含玩法）(待上传)",
+		"name": "地图脚本（不含玩法）",
 		"text": "模式各项属性修改",
 		"type": "json"
 	}, {
 		"name": "模式地图（包含玩法）(待上传)",
-		"text": "由 2795846542 负责管理",
+		"text": "由 9527 负责管理",
 		"type": "db"
 	}],
 	"娱乐功能1": [],
 	"英雄脚本": [{
 			"name": "廉颇修改为其他英雄",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/%E5%BB%89%E9%A2%87%E4%BF%AE%E6%94%B9%E4%B8%BA%E5%85%B6%E4%BB%96%E8%8B%B1%E9%9B%84.kele",
+			"url": "/Kele/英雄脚本/廉颇英雄",
 			"text": "输入你想修改的英雄代码，默认为坦克炮管",
-			"img": ""
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/105/10500.png"
 		},
 		{
 			"name": "［自定义］孙策大招加速",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/%E5%AD%99%E7%AD%96%E5%A4%A7%E6%8B%9B%E5%8A%A0%E9%80%9F.kele",
+			"url": "/Kele/英雄脚本/ 孙策加速",
 			"text": "自定义孙策大招释放后释放的技能 ，默认为大招（速度提升），可到工厂模式复制，乱改会资源损坏\n此脚本由 9527 制作",
+			"img": "https://s4.ax1x.com/2021/12/18/TA2G4S.png"
+		},
+        {
+			"name": "［自定义］马超无限戳",
+			"url": "/Fty/马超无限戳.fty",
+			"text": "［自定义］马超无限戳\n此脚本由 雪莉 制作",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/510/51030.png"
 		},
 		{
 			"name": "妙手回春",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/abe41138de2091c39b122eb550347c96ed637cf9/%E6%89%81%E9%B9%8A%E6%97%A0%E9%99%90%E8%A2%AB%E5%8A%A8.kele",
+			"url": "/Kele/英雄脚本/妙手回春",
 			"text": "印记持续时间永久，基础伤害回复量提高，缩短攻击间隔\n此脚本由 9527 制作",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/119/11900.png"
 		},
 		{
 			"name": "庸医杀人",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/%E5%96%84%E6%81%B6%E4%B8%8D%E5%88%86.kele",
+			"url": "/Kele/英雄脚本/庸医杀人",
 			"text": "杀队友（不包括自身）和给敌方回血；印记持续时间永久，基础伤害回复量提高，缩短攻击间隔\n此脚本由 9527 制作",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/119/11900.png"
 		},
 		{
 			"name": "后羿觉醒遥控小飞机",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/7f0c00fdad89be8c25c3883dfea168d4e8462860/%E5%90%8E%E7%BE%BF%E8%A7%89%E9%86%92.kele",
+			"url": "/Kele/英雄脚本/ 后羿觉醒",
 			"text": "后羿觉醒遥控小飞机\n后羿新增一个三技能，与大招共享等级，释放大招后点击三技能可以调整大招飞行方向,大招冷却降至15秒，并取消蓝耗\n此脚本由 9527 2795846542制作",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/169/16930.png"
 		},
 		{
 			"name": "西施无限拉人",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/25fb3b0f8fe49516706b64fdbba4baefb4248876/%E8%A5%BF%E6%96%BD%E6%97%A0%E9%99%90%E6%8B%89%E4%BA%BA.kele",
+			"url": "/Kele/英雄脚本/西施拉人",
 			"text": "西施无限拉人，必须普攻才能触发二段\n此脚本由群友通过匿名提问箱投稿 9527 制作",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/523/52300.png"
 		},
 		{
 			"name": "米莱狄觉醒",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/%E8%A7%89%E9%86%92%E7%B1%B3%E8%8E%B1%E7%8B%84.kele",
+			"url": "/",
 			"text": "米莱狄觉醒\n此脚本由群友通过匿名提问箱投稿 9527 制作",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/504/50400.png"
 		},
 		{
 			"name": "光信全技能真伤",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/%E5%85%89%E4%BF%A1%E5%85%A8%E6%8A%80%E8%83%BD%E7%9C%9F%E4%BC%A4.kele",
+			"url": "/",
 			"text": "光信全技能真伤\n此脚本由群友通过匿名提问箱投稿 9527 制作",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/507/507-smallskin-3.jpg"
 		},
 		{
 			"name": "刘邦无限套盾",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/%E5%88%98%E9%82%A6%E6%97%A0%E9%99%90%E6%8A%A4%E7%9B%BE",
+			"url": "/",
 			"text": "如果护盾被击破将自动为刘邦继续开启一个护盾，若护盾自然结束或手动结束，则不会继续套盾\n此脚本由 9527 制作",
 			"img": "http://game.gtimg.cn/images/yxzj/img201606/heroimg/149/14910.png"
 		},
 		{
 			"name": "干将自动放剑",
 			"free": "true",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/86287174d3d502d27b31e45f4115f996c5356b0e/%E5%B9%B2%E5%B0%86%E8%87%AA%E5%8A%A8%E6%94%BE%E5%89%91.kele",
+			"url": "/",
 			"text": "作者1612616349",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/182/182.jpg"
 		},
 		{
 			"name": "狄仁杰觉醒",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/drjjx",
+			"url": "/",
 			"text": "此脚本由作案大师3033488414制作",
 			"img": "https://z3.ax1x.com/2021/02/26/yxve2D.jpg"
 		},
 		{
 			"name": "安琪拉觉醒",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/anqila1",
+			"url": "/",
 			"text": "此脚本由三群1136117475制作",
 			"img": "https://s4.ax1x.com/2021/12/18/TAR9PS.png"
 		},
 		{
 			"name": "凯普攻真伤",
 			"free": "true",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/kai1",
+			"url": "/",
 			"text": "开普攻变成真伤，并且提高初始暴击率，大招无CD旦可以在被控制时使用",
 			"img": "https://s4.ax1x.com/2021/12/07/ogl1Wn.png"
 		},
 		{
 			"name": "澜强化普攻",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/lan1",
+			"url": "/",
 			"text": "此脚本由一群2468799037制作",
 			"img": "https://z3.ax1x.com/2021/11/18/ITctgI.png"
 		},
 		{
 			"name": "觉醒貂蝉",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/diaochan1",
+			"url": "/",
 			"text": "此脚本开启较慢\n由三群1136117475制作",
 			"img": "https://z3.ax1x.com/2021/11/23/opUKC8.png"
 		},
 		{
 			"name": "露娜觉醒",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/luna1",
+			"url": "/",
 			"text": "此脚本由三群1136117475制作",
 			"img": "https://s4.ax1x.com/2021/12/18/TA2G4S.png"
 		},
 		{
 			"name": "菊又惊",
 			"free": "true",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/juzi1",
+			"url": "/",
 			"text": "此脚本开启时间较长\n1.橘子自带蒙恬大招且与橘子本身大招共享等级\n2.蒙恬小兵模型与技能都变成橘子的\n3.橘子全技能无冷却后摇\n4.蒙恬小兵增加了一个无冷却的奕星被动\n开启脚本后不要让人机选到蒙恬与奕星，否则后果自负",
 			"img": "https://s4.ax1x.com/2021/12/18/TV0VpR.png"
 		},
 		{
 			"name": "哪吒大招“透视”",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/nezha1",
+			"url": "/",
 			"text": "哪吒大招获取视野时间变长\n 9527 制作",
 			"img": "https://z3.ax1x.com/2021/11/23/oSOvod.png"
 		},
 		{
 			"name": "觉醒孙尚香",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/jx111",
+			"url": "/",
 			"text": "三三技能变大，所以普攻改成强化普攻\n(群主找我定制不给钱💰呜呜呜)",
 			"img": "https://z3.ax1x.com/2021/11/22/IxGgjP.png"
 		},
 		{
 			"name": "献祭流司马懿",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/simayi1",
+			"url": "/",
 			"text": "此脚本由三群1136117475制作",
 			"img": "https://z3.ax1x.com/2021/11/20/IL51sO.png"
 		},
 		{
 			"name": "守约移动拉人",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/shouyue1",
+			"url": "/",
 			"text": "此脚本由三群1136117475制作",
 			"img": "https://s4.ax1x.com/2022/01/16/7NnS4H.png"
 		},
 		{
 			"name": "达摩无限大",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/damo1",
+			"url": "/",
 			"text": "此脚本由三群1136117475制作",
 			"img": "https://z3.ax1x.com/2021/11/17/IIeGY6.png"
 		},
 		{
 			"name": "李白全技能真伤",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/libai1",
+			"url": "/",
 			"text": "大招也解禁了，去tmd反甲\n此脚本由3063488414制作",
 			"img": "https://z3.ax1x.com/2021/11/23/oSvgQP.png"
 		},
 		{
 			"name": "李白大招无限刮",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/libai2",
+			"url": "/",
 			"text": "1.李白普攻变成大招，但同时大招会无法解锁\n2.被大招命中的敌人会有一段影子一直刮\n3.注意:大招不能打塔(你都开这个了,该不会还会输吧?)",
 			"img": "https://z3.ax1x.com/2021/11/23/oSvgQP.png"
 		},
 		{
 			"name": "觉醒牛魔",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/niu1",
+			"url": "/",
 			"text": "此脚本由三群1136117475制作",
 			"img": "https://z3.ax1x.com/2021/11/23/opd17n.png"
 		},
 		{
 			"name": "诸葛死亡可放技能",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/zhugeliang1",
+			"url": "/",
 			"text": "建议开局就冲到对面泉水，开局10分钟之前似乎会在原地复活",
 			"img": "https://s4.ax1x.com/2022/01/14/78PqPg.png"
 		},
 		{
 			"name": "老夫子二技能弹弹乐",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/%E8%80%81%E5%A4%AB%E5%AD%90%E5%BC%B9%E5%BC%B9%E4%B9%90",
+			"url": "/",
 			"text": "此脚本由三群1136117475制作",
 			"img": "https://z3.ax1x.com/2021/11/17/IIi8xA.png"
 		},
 		{
 			"name": "刘邦大招拉队友",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/liubang1",
+			"url": "/",
 			"text": "此脚本由 9527 制作",
 			"img": "https://z3.ax1x.com/2021/11/18/ITaWkt.png"
 		},
 		{
 			"name": "典韦大招砍队友",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/dianwei1",
+			"url": "/",
 			"text": "此脚本由三群1136117475制作",
 			"img": "https://z3.ax1x.com/2021/11/18/ITdODH.png"
 		},
 		{
 			"name": "关羽无限冲锋",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/ad02991d75311ccbf212b43f4a761538ccfb9565/%E5%85%B3%E7%BE%BD%E6%97%A0%E9%99%90%E5%A5%94%E8%B7%91.kele",
+			"url": "/",
 			"text": "作者1612616349",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/140/14000.png"
 		},
 		{
 			"name": "守约一技能变炮台 ",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/shouyue2.kele",
-			"text": "守约一技能会原地生一个一直放二技能的无敌守约\n去除了—技能只能放三个的限制",
+			"url": "/",
+			"text": "守约一技能会原地生一个一直放二技能的无敌守约",
 			"img": "https://s4.ax1x.com/2021/12/18/TA2G4S.png"
 		},
 		{
 			"name": "狄仁杰叠加二技能",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/direnjie1.kele",
+			"url": "/",
 			"text": "没啥好玩的，就是狄仁杰放一次二技能后一直放二技能，还容易掉帧\n应该不会被快手某主播偷去引流吧",
 			"img": "https://s4.ax1x.com/2021/12/18/TA2G4S.png"
 		},
 		{
 			"name": "光之蒙恬",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/mengtian1.kele",
+			"url": "/",
 			"text": "蒙恬小兵自动无限释放光信强化普攻\\如果使用非防守状态—技能还会发射小兵",
 			"img": "https://s4.ax1x.com/2021/12/18/TA2G4S.png"
 		},
 		{
 			"name": "貂蝉诈尸",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/diaochan2.kele",
+			"url": "/",
 			"text": "功能就是名字",
 			"img": "https://s4.ax1x.com/2021/12/18/TA2G4S.png"
 		},
 		{
 			"name": "猴子无限棍",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/hou2.kele",
+			"url": "/",
 			"text": "功能就是名字",
 			"img": "https://s4.ax1x.com/2021/12/18/TA2G4S.png"
 		},
 		{
 			"name": "小明—技能击飞",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/xiaoming1.kele",
+			"url": "/",
 			"text": "小明—技能牵人减速改成向自己面朝方向击飞,放风筝咯",
 			"img": "https://s4.ax1x.com/2021/12/18/TA2G4S.png"
 		},
 		{
 			"name": "马超无限戳（修复版）",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/luna1",
+			"url": "/",
 			"text": "快手某玖逍遥主播能不能不要偷了啊\\东西都快被你偷没了",
 			"img": "https://s4.ax1x.com/2021/12/18/TA2G4S.png"
 		},
 		{
 			"name": "关羽冰封战神冻人",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/38723ec9451655ece6f79b3325aa82784ef7bcbf/%E5%85%B3%E7%BE%BD%E5%86%B0%E5%B0%81%E6%88%98%E7%A5%9E%E6%94%BB%E5%87%BB%E5%86%B0%E5%86%BB.kele",
+			"url": "/",
 			"text": "作者1612616349",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/140/140-smallskin-4.jpg"
 		}
@@ -588,68 +594,68 @@
 	],
 	"娱乐功能4": [],
 	"地图脚本（不含玩法）": [{
-			"name": "单机5v5改抢鲲大作战",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/7e47d1f96c901151a7c4e3807e02de532ce121eb/%E5%8D%95%E6%9C%BA5v5%E6%94%B9%E6%8A%A2%E9%B2%B2%E5%A4%A7%E4%BD%9C%E6%88%98.kele",
+			"name": "单机5v5改抢鲲大作战(目前有卡住的bug，待修复)",
+			"url": "/Kele/模式脚本/抢鲲大作战",
 			"text": "地图功能强势回归，我们的快乐又回来了!\n此脚本由 9527 制作",
-			"img": "http://r6079vwtg.hn-bkt.clouddn.com/ekpT4llXvh"
+			"img": "https://bkimg.cdn.bcebos.com/pic/0823dd54564e9258ec03ea349282d158ccbf4e30?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto"
 		},
 		{
 			"name": "单机5v5改五军对决",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/abf9ab2c969b0427829dc9f463ec73d9b72b3346/%E5%8D%95%E6%9C%BA5v5%E6%94%B9%E4%BA%94%E5%86%9B%E5%AF%B9%E5%86%B3.kele",
+			"url": "/Kele/模式脚本/五军对决",
 			"text": "地图功能强势回归，我们的快乐又回来了!\n此脚本由 9527 制作",
-			"img": "http://r6079vwtg.hn-bkt.clouddn.com/95CSa6n0RQ"
+			"img": "https://bkimg.cdn.bcebos.com/pic/a1ec08fa513d269708edef255afbb2fb4316d888?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto"
 		},
 		{
 			"name": "单机5v5改火焰山大战",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/cd8d182e4f7ce9563787659d1ea5cbe4eb2a4e6a/%E5%8D%95%E6%9C%BA5v5%E6%94%B9%E7%81%AB%E7%84%B0%E5%B1%B1%E5%A4%A7%E6%88%98.kele",
+			"url": "/Kele/模式脚本/火焰山大战",
 			"text": "地图功能强势回归，我们的快乐又回来了!\n此脚本由 9527 制作",
-			"img": "http://r6079vwtg.hn-bkt.clouddn.com/jjZFIdKCos"
+			"img": "https://shp.qpic.cn/inewsnopic/17279812/c597e7a90f996c9047bf319ccad819d1/0"
 		},
 		{
 			"name": "单机5v5改梦境大乱斗",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/139276f0b0e5fd32ab451c1e6f7203af96c63243/%E5%8D%95%E6%9C%BA5v5%E6%94%B9%E6%A2%A6%E5%A2%83%E5%A4%A7%E4%B9%B1%E6%96%97.kele",
+			"url": "/Kele/模式脚本/梦境大乱斗",
 			"text": "地图功能强势回归，我们的快乐又回来了!\n此脚本由 9527 制作",
-			"img": "http://r6079vwtg.hn-bkt.clouddn.com/bXt45Gb8cY"
+			"img": "https://game.gtimg.cn/images/yxzj/coming/v2/mode///image/20190626/67d0f0b7f5140328b15f29ffa7ad35de.gif"
 		},
 		{
 			"name": "单机5v5改3v3",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/8864bff2a861b4a6fc356fc845486dc11c9a60da/%E5%8D%95%E6%9C%BA5v5%E6%94%B93v3.kele",
+			"url": "/Kele/模式脚本/3v3",
 			"text": "地图功能强势回归，我们的快乐又回来了!\n此脚本由 9527 2795846542制作",
-			"img": "http://r6079vwtg.hn-bkt.clouddn.com/9uikZU0CEt"
+			"img": "https://gitee.com/as9527/cloud-script/raw/master/3v3"
 		},
 		{
 			"name": "单机5v5全图视野",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/toushi",
+			"url": "/Kele/模式脚本/全图视野",
 			"text": "仅限单机5v5使用\n你有人机视野，人机当然也有你的视野\n进草丛也不会丢失视野",
 			"img": "https://s4.ax1x.com/2021/12/18/TAggmt.jpg"
 		},
 		{
 			"name": "单机5v5自定义出兵间隔",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/%E5%8D%95%E6%9C%BA5v5%E4%BF%AE%E6%94%B9%E5%87%BA%E5%85%B5%E9%97%B4%E9%9A%94.kele",
+			"url": "/Kele/模式脚本/出兵间隔",
 			"text": "此脚本由422813372制作",
 			"img": "https://gitee.com/meaninglesspeople/script/raw/master/QQ%E5%9B%BE%E7%89%8720220218120613.jpg"
 		},
 		{
 			"name": "单机5v5野怪追击距离无限",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/%E5%8D%95%E6%9C%BA5v5%E9%87%8E%E6%80%AA%E8%BF%BD%E5%87%BB%E8%B7%9D%E7%A6%BB%E6%97%A0%E9%99%90.kele",
+			"url": "/Kele/模式脚本/野怪追击",
 			"text": "此脚本由422813372制作",
 			"img": "https://gitee.com/meaninglesspeople/script/raw/master/QQ%E5%9B%BE%E7%89%8720220218120613.jpg"
 		},
 		{
 			"name": "单机5v5去除各大龙的免控",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/%E5%8D%95%E6%9C%BA5v5%E5%8E%BB%E9%99%A4%E5%90%84%E5%A4%A7%E9%BE%99%E7%9A%84%E5%85%8D%E6%8E%A7.kele",
+			"url": "/Kele/模式脚本/去龙免控",
 			"text": "此脚本由422813372制作",
 			"img": "https://gitee.com/meaninglesspeople/script/raw/master/QQ%E5%9B%BE%E7%89%8720220218120613.jpg"
 		},
 		{
 			"name": "单机5v5拥有长平攻防战回蓝速度",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/%E5%8D%95%E6%9C%BA5v5%E6%8B%A5%E6%9C%89%E9%95%BF%E5%B9%B3%E6%94%BB%E9%98%B2%E6%88%98%E5%9B%9E%E8%93%9D%E9%80%9F%E5%BA%A6.kele",
+			"url": "/Kele/模式脚本/回蓝速度",
 			"text": "此脚本由422813372制作",
 			"img": "https://gitee.com/meaninglesspeople/script/raw/master/QQ%E5%9B%BE%E7%89%8720220218120613.jpg"
 		},
 		{
 			"name": "单机5v5塔和水晶可被秒杀",
-			"url": "https://gitee.com/meaninglesspeople/script/raw/master/%E5%8D%95%E6%9C%BA5v5%E5%A1%94%E5%92%8C%E6%B0%B4%E6%99%B6%E5%8F%AF%E8%A2%AB%E7%A7%92%E6%9D%80.kele",
+			"url": "/Kele/模式脚本/塔被秒杀",
 			"text": "此脚本由422813372制作",
 			"img": "https://gitee.com/meaninglesspeople/script/raw/master/QQ%E5%9B%BE%E7%89%8720220218120613.jpg"
 		}
@@ -694,17 +700,17 @@
 			"name": "火焰山大战",
 			"free": "true",
 			"url": [{
-				"url": "https://gitee.com/meaninglesspeople/list/raw/144874c89230ee1d584a1f188a7a006e281546ec/%E7%81%AB%E7%84%B0%E5%B1%B1.txt-38136.txt",
+				"url": "/Db/9527/模式地图/火焰山大战8",
 				"type": "8"
 			}],
 			"text": "单机5v5改火焰山大战\n结束条件：一方击杀总数达到30个或游戏时长达到10分钟",
 			"img": "http://r6079vwtg.hn-bkt.clouddn.com/jjZFIdKCos"
 		},
 		{
-			"name": "无限乱斗-重制版",
+			"name": "无限乱斗",
 			"free": "true",
 			"url": [{
-				"url": "https://gitee.com/meaninglesspeople/list/raw/master/%E6%97%A0%E9%99%90%E4%B9%B1%E6%96%97.txt-8544(1).txt",
+				"url": "/Db/9527/模式地图/无限乱斗8",
 				"type": "8"
 			}],
 			"text": "单机5v5改无限乱斗模式\n每两分钟刷新随机buff，可购买第七件装备buff之石；买了宝石装备第七个格子才会现形",
