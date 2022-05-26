@@ -2,7 +2,11 @@
 	"typelist": [{
 		"name": "上传列表",
 		"text": "上传脚本私聊雪莉",
-		"type": "json"
+		"type": "db"
+}, {
+		"name": "雪莉制作",
+		"text": "雪莉自己写的DB，多多支持",
+		"type": "db"
 	}],
 	"娱乐功能1": [],
 	"上传列表": [{
@@ -40,5 +44,18 @@
 			"url": "/Kele/英雄脚本/西施拉人",
 			"text": "西施无限拉人，必须普攻才能触发二段\n此脚本由群友通过匿名提问箱投稿 9527 制作",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/523/52300.png"
+	"娱乐功能2": [],
+	"雪莉制作": [{
+      	"name": "电光马子",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/马超无限戳.fty-5-.txt",
+			"type": "5"
+		}, {
+			"url": "/Db/xueli/马超无限戳.fty-2-.txt",
+			"type": "2"
+		}],
+		"text": "马超无限戳被动",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/518/518-smallskin-3.jpg"
 		}]
 }
