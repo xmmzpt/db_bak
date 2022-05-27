@@ -98,15 +98,6 @@
 		}],
 		"text": "司马懿第三个技能",
 		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/137/13700.png"
- 		}, {
-		"name": "典韦",
-		"free": "true",
-		"url": [{
-			"url": "/Db/xueli/典韦.fty-5-.txt",
-			"type": "5"
-		}],
-		"text": "彻底疯狂！！！\n大招打队友，伤害CD自己改",
-		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/129/12900.png"
         	}],
 	"娱乐功能3": [],
 	"孩子不懂事改着玩的": [{
