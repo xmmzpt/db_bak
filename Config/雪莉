@@ -44,6 +44,32 @@
 			"url": "/Kele/英雄脚本/西施拉人",
 			"text": "西施无限拉人，必须普攻才能触发二段\n此脚本由群友通过匿名提问箱投稿 9527 制作",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/523/52300.png"
+		},
+		{
+		"name": "夏洛特强化平a",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/夏洛特.fty-2-.txt",
+			"type": "2"
+            }, {
+			"url": "/Db/xueli/夏洛特.fty-5-.txt",
+			"type": "5"
+     		}],
+      		"text": "夏洛特无限强化普功初始加100攻速\n作者473570255",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/536/53600.png"
+    	},
+		{
+		"name": "太乙真人",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/太乙真人.fty-5-.txt",
+			"type": "5"
+            }, {
+			"url": "/Db/xueli/太乙真人.fty-6-.txt",
+			"type": "6"
+     		}],
+      		"text": "钻石王老乙被\n动增强100倍\n二技能眩晕50秒\n大招无冷却\n作者473570255",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/186/186-smallskin-4.jpg"
 			}],
 	"娱乐功能2": [],
 	"雪莉制作": [{
