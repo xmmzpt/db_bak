@@ -55,9 +55,9 @@
 			"url": "/Db/xueli/夏洛特.fty-5-.txt",
 			"type": "5"
      		}],
-      		"text": "夏洛特无限强化普功初始加100攻速\n制作人473570255\n上传人雪莉",
+      		"text": "夏师傅经过日夜苦练不在刮痧\n习得无限七星光芒剑并初始加100攻速\n制作人473570255\n上传人雪莉",
 		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/536/53600.png"
-    	},
+        },
 		{
 		"name": "太乙真人",
 		"free": "true",
@@ -68,8 +68,34 @@
 			"url": "/Db/xueli/太乙真人.fty-6-.txt",
 			"type": "6"
      		}],
-      		"text": "钻石王老乙\n被动增强100倍\n二技能眩晕50秒\n制作人473570255\n上传人雪莉",
+      		"text": "钻石王老乙发现传说中的炼金术另一个永恒不变的规则\n被动增强100倍\n二技能眩晕50秒\n制作人473570255\n上传人雪莉",
 		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/186/186-smallskin-4.jpg"
+        },
+		{
+		"name": "韩信强化普攻",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/韩信.fty-2-.txt",
+			"type": "2"
+            }, {
+			"url": "/Db/xueli/韩信.fty-5-.txt",
+			"type": "5"
+     		}],
+      		"text": "韩信强化普攻杀意之枪\n对敌方造成击飞\n到达胜利之前无法回头\n初始血量翻倍\n制作人473570255\n上传人雪莉",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/150/15000.png"
+        },
+		{
+		"name": "强化刘备",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/刘备.fty-5-.txt",
+			"type": "6"
+            }, {
+			"url": "/Db/xueli/刘备.fty-5-.txt",
+			"type": "5"
+     		}],
+      		"text": "一技能穿上草鞋飞一般的感觉，增加150秒超强移速\n二技能无冷却固定伤害10\n大招大幅度增强\n制作人473570255\n上传人雪莉",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/536/53600.png"
 			}],
 	"娱乐功能2": [],
 	"雪莉制作": [{
