@@ -71,6 +71,15 @@
 		}],
 		"text": "彻底疯狂!!!\n大招打队友，伤害CD自己改",
 		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/129/12900.png"
+  		}, {
+		"name": "孙悟空",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/孙悟空.fty-5-.txt",
+			"type": "5"
+		}],
+		"text": "无限敲",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/167/16700.png"
 			}],
 	"娱乐功能3": [],
 	"孩子不懂事改着玩的": [{
