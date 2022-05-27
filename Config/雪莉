@@ -7,6 +7,10 @@
 		"name": "雪莉制作",
 		"text": "雪莉自己写的DB，多多支持",
 		"type": "db"
+        }, {
+		"name": "孩子不懂事改着玩的",
+		"text": "作者起的名字",
+		"type": "db"
 	}],
 	"娱乐功能1": [],
 	"上传列表": [{
@@ -44,8 +48,32 @@
 			"url": "/Kele/英雄脚本/西施拉人",
 			"text": "西施无限拉人，必须普攻才能触发二段\n此脚本由群友通过匿名提问箱投稿 9527 制作",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/523/52300.png"
-		},
-		{
+			}],
+	"娱乐功能2": [],
+	"雪莉制作": [{
+      	"name": "电光马子",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/马超无限戳.fty-5-.txt",
+			"type": "5"
+		}, {
+			"url": "/Db/xueli/马超无限戳.fty-2-.txt",
+			"type": "2"
+		}],
+		"text": "马超无限戳被动",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/518/518-smallskin-3.jpg"
+		}, {
+		"name": "铠大无限时间",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/铠大招无限.fty-6-.txt",
+			"type": "6"
+		}],
+		"text": "铠大招无限持续时间，除非死亡才能解除变身",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/193/193.jpg"
+        	}],
+	"娱乐功能3": [],
+	"孩子不懂事改着玩的": [{
 		"name": "夏洛特强化平a",
 		"free": "true",
 		"url": [{
@@ -176,28 +204,5 @@
      		}],
       		"text": "黑夜才是密探的主场\n被动获取敌方视野，死亡失效\n一技能获得满额攻速40秒\n二技能无冷却无消耗无伤害\n制作人473570255\n上传人雪莉",
 		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/173/173-smallskin-1.jpg"
-			}],
-	"娱乐功能2": [],
-	"雪莉制作": [{
-      	"name": "电光马子",
-		"free": "true",
-		"url": [{
-			"url": "/Db/xueli/马超无限戳.fty-5-.txt",
-			"type": "5"
-		}, {
-			"url": "/Db/xueli/马超无限戳.fty-2-.txt",
-			"type": "2"
-		}],
-		"text": "马超无限戳被动",
-		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/518/518-smallskin-3.jpg"
-		}, {
-		"name": "铠大无限时间",
-		"free": "true",
-		"url": [{
-			"url": "/Db/xueli/铠大招无限.fty-6-.txt",
-			"type": "6"
-		}],
-		"text": "铠大招无限持续时间，除非死亡才能解除变身",
-		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/193/193.jpg"
 		}]
 }
