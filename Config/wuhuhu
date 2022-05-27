@@ -253,13 +253,13 @@
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/312/31210.png"
 		},
         {
-			"name": "移动回城",
+			"name": "回城可移动",
 			"url": "/Kele/英雄脚本/移动回城",
 			"text": "可移动回城不可被打断",
 			"img": ""
 		},
         {
-			"name": "李白不限",
+			"name": "李白大招不限制",
 			"url": "/Kele/英雄脚本/李白不限",
 			"text": "去除李白大招的禁用效果",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/131/13130.png"
