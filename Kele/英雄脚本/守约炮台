@@ -1,0 +1,58 @@
+{
+	"data": [
+		{
+			"value": "7338325",
+			"name": "模型",
+			"lv": [
+				{
+					"value": "1484080124",
+					"offset": "4"
+				}
+			],
+			"set": [
+				{
+					"value": "-137834663",
+					"offset": "0",
+					"name": "",
+					"diy": false
+				},
+				{
+					"value": "1830758588",
+					"offset": "4",
+					"name": "",
+					"diy": false
+				}
+			]
+		},
+		{
+			"value": "-658952651",
+			"name": "技能",
+			"lv": [
+				{
+					"value": "-2022246646",
+					"offset": "4"
+				}
+			],
+			"set": [
+				{
+					"value": "-2051403109",
+					"offset": "0",
+					"name": "",
+					"diy": false
+				},
+				{
+					"value": "1243391857",
+					"offset": "4",
+					"name": "",
+					"diy": false
+				},
+				{
+					"value": "0",
+					"offset": "16",
+					"name": "",
+					"diy": false
+				}
+			]
+		}
+	]
+}
