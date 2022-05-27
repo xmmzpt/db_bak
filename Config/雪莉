@@ -71,6 +71,17 @@
 		}],
 		"text": "铠大招无限持续时间，除非死亡才能解除变身",
 		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/193/193.jpg"
+		"name": "司马懿",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/司马懿.fty-5-.txt",
+			"type": "5"
+		}, {
+			"url": "/Db/xueli/司马懿.fty-2-.txt",
+			"type": "2"
+		}],
+		"text": "司马懿第三个技能",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/137/13700.png"
         	}],
 	"娱乐功能3": [],
 	"孩子不懂事改着玩的": [{
