@@ -1,7 +1,7 @@
 {
 	"typelist": [{
-		"name": "上传列表",
-		"text": "上传脚本私聊雪莉",
+		"name": "上传列表（待分享)",
+		"text": "有还玩的脚本私聊雪莉帮你们上传",
 		"type": "db"
 }, {
 		"name": "雪莉制作",
@@ -18,36 +18,6 @@
 			"url": "/Kele/英雄脚本/廉颇英雄",
 			"text": "输入你想修改的英雄代码，默认为坦克炮管",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/105/10500.png"
-		},
-		{
-			"name": "［自定义］孙策大招加速",
-			"url": "/Kele/英雄脚本/ 孙策加速",
-			"text": "自定义孙策大招释放后释放的技能 ，默认为大招（速度提升），可到工厂模式复制，乱改会资源损坏\n此脚本由 9527 制作",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/510/51030.png"
-		},
-		{
-			"name": "妙手回春",
-			"url": "/Kele/英雄脚本/妙手回春",
-			"text": "印记持续时间永久，基础伤害回复量提高，缩短攻击间隔\n此脚本由 9527 制作",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/119/11900.png"
-		},
-		{
-			"name": "庸医杀人",
-			"url": "/Kele/英雄脚本/庸医杀人",
-			"text": "杀队友（不包括自身）和给敌方回血；印记持续时间永久，基础伤害回复量提高，缩短攻击间隔\n此脚本由 9527 制作",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/119/119-smallskin-3.jpg"
-		},
-		{
-			"name": "后羿觉醒遥控小飞机",
-			"url": "/Kele/英雄脚本/ 后羿觉醒",
-			"text": "后羿觉醒遥控小飞机\n后羿新增一个三技能，与大招共享等级，释放大招后点击三技能可以调整大招飞行方向,大招冷却降至15秒，并取消蓝耗\n此脚本由 9527 2795846542制作",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/169/16930.png"
-		},
-		{
-			"name": "西施无限拉人",
-			"url": "/Kele/英雄脚本/西施拉人",
-			"text": "西施无限拉人，必须普攻才能触发二段\n此脚本由群友通过匿名提问箱投稿 9527 制作",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/523/52300.png"
 			}],
 	"娱乐功能2": [],
 	"雪莉制作": [{
