@@ -158,97 +158,91 @@
 		},
 		{
 			"name": "李白全技能真伤",
-			"url": "/",
+			"url": "/Kele/英雄脚本/李白真伤",
 			"text": "大招也解禁了，去tmd反甲\n此脚本由3063488414制作",
 			"img": "https://z3.ax1x.com/2021/11/23/oSvgQP.png"
 		},
 		{
 			"name": "李白大招无限刮",
-			"url": "/",
+			"url": "/Kele/英雄脚本/李白大刮",
 			"text": "1.李白普攻变成大招，但同时大招会无法解锁\n2.被大招命中的敌人会有一段影子一直刮\n3.注意:大招不能打塔(你都开这个了,该不会还会输吧?)",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/131/13130.png"
 		},
 		{
 			"name": "觉醒牛魔",
-			"url": "/",
+			"url": "/Kele/英雄脚本/牛魔觉醒",
 			"text": "此脚本由三群1136117475制作",
 			"img": "https://z3.ax1x.com/2021/11/23/opd17n.png"
 		},
 		{
 			"name": "诸葛死亡可放技能",
-			"url": "/",
+			"url": "/Kele/英雄脚本/诸葛死亡",
 			"text": "建议开局就冲到对面泉水，开局10分钟之前似乎会在原地复活",
 			"img": "https://s4.ax1x.com/2022/01/14/78PqPg.png"
 		},
 		{
 			"name": "老夫子二技能弹弹乐",
-			"url": "/",
+			"url": "/Kele/英雄脚本/夫子弹弹",
 			"text": "此脚本由三群1136117475制作",
 			"img": "https://z3.ax1x.com/2021/11/17/IIi8xA.png"
 		},
 		{
 			"name": "刘邦大招拉队友",
-			"url": "/",
+			"url": "/Kele/英雄脚本/刘邦大拉",
 			"text": "此脚本由 9527 制作",
 			"img": "https://z3.ax1x.com/2021/11/18/ITaWkt.png"
 		},
 		{
 			"name": "典韦大招砍队友",
-			"url": "/",
+			"url": "/Kele/英雄脚本/典韦大砍",
 			"text": "此脚本由三群1136117475制作",
 			"img": "https://z3.ax1x.com/2021/11/18/ITdODH.png"
 		},
 		{
 			"name": "关羽无限冲锋",
-			"url": "/",
+			"url": "/Kele/英雄脚本/ 关羽无限",
 			"text": "作者1612616349",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/140/14000.png"
 		},
 		{
-			"name": "守约一技能变炮台 ",
-			"url": "/",
+			"name": "守约一技能变炮台",
+			"url": "/Kele/英雄脚本/守约炮台",
 			"text": "守约一技能会原地生一个一直放二技能的无敌守约",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/196/19610.png"
 		},
 		{
 			"name": "狄仁杰叠加二技能",
-			"url": "/",
+			"url": "/Kele/英雄脚本/狄仁杰叠",
 			"text": "没啥好玩的，就是狄仁杰放一次二技能后一直放二技能，还容易掉帧\n应该不会被快手某主播偷去引流吧",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/133/13320.png"
 		},
 		{
 			"name": "光之蒙恬",
-			"url": "/",
+			"url": "/Kele/英雄脚本/光之蒙恬",
 			"text": "蒙恬小兵自动无限释放光信强化普攻\\如果使用非防守状态—技能还会发射小兵",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/507/50730.png"
 		},
 		{
 			"name": "貂蝉诈尸",
-			"url": "/",
+			"url": "/Kele/英雄脚本/貂蝉诈尸",
 			"text": "功能就是名字",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/141/141-smallskin-1.jpg"
 		},
 		{
 			"name": "猴子无限棍",
-			"url": "/",
+			"url": "/Kele/英雄脚本/猴子无限",
 			"text": "功能就是名字",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/167/16700.png"
 		},
 		{
 			"name": "小明—技能击飞",
-			"url": "/",
+			"url": "/Kele/英雄脚本/小明击飞",
 			"text": "小明—技能牵人减速改成向自己面朝方向击飞,放风筝咯",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/501/50110.png"
 		},
 		{
-			"name": "马超无限戳（修复版）",
-			"url": "/",
-			"text": "快手某玖逍遥主播能不能不要偷了啊\\东西都快被你偷没了",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/518/51800.png"
-		},
-		{
 			"name": "关羽冰封战神冻人",
-			"url": "/",
+			"url": "/Kele/英雄脚本/冰封冻人",
 			"text": "作者1612616349",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/140/140-smallskin-4.jpg"
 		}
