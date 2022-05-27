@@ -96,6 +96,86 @@
      		}],
       		"text": "穿上草鞋飞一般的感觉\n一技能增加150秒超强移速\n二技能无冷却固定伤害10\n大招大幅度增强\n制作人473570255\n上传人雪莉",
 		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/170/17020.png"
+        },
+		{
+		"name": "姜子牙",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/姜子牙.fty-13-.txt",
+			"type": "13"
+            }, {
+			"url": "/Db/xueli/姜子牙.fty-6-.txt",
+			"type": "6"
+     		}],
+      		"text": "愿者上钩\n被动增强可快速满级\n二技能伤害增强十倍\n制作人473570255\n上传人雪莉",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/148/148-smallskin-3.jpg"
+  		 },
+		{
+		"name": "吕布",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/卢布.fty-5-.txt",
+			"type": "5"
+            }, {
+			"url": "/Db/xueli/卢布.fty-6-.txt",
+			"type": "6"
+     		}],
+      		"text": "方天画戟前坚持不到5秒的也算真男人？\n附魔状态下普攻回血\n大招CD降低为20\n制作人473570255\n上传人雪莉",
+		"img": "https://pvp.qq.com/web201605/herodetail/123.shtml"
+  		 },
+		{
+		"name": "亚瑟",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/亚瑟.fty-6-.txt",
+			"type": "6"
+     		}],
+      		"text": "亚瑟无意间学到德玛西亚之力\n被动0.2秒恢复10%生命\n一技能沉默125秒\n大招击飞500秒\n制作人473570255\n上传人雪莉",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/166/16630.png"
+
+  		 },
+		{
+		"name": "耀",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/耀.fty-2-.txt",
+			"type": "2"
+            }, {
+			"url": "/Db/xueli/耀.fty-5-.txt",
+			"type": "5"
+           }, {
+			"url": "/Db/xueli/卢布.fty-6-.txt",
+			"type": "6"
+     		}],
+      		"text": "看见！看剑！看贱！\n初始血量暴击率提升\n二技能末端击飞7秒\n技能命中回复30%最大生命值\n制作人473570255\n上传人雪莉",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/522/522-smallskin-3.jpg"
+  		 },
+		{
+		"name": "干将莫邪",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/干将.fty-5-.txt",
+			"type": "5"
+            }, {
+			"url": "/Db/xueli/干将.fty-6-.txt",
+			"type": "6"
+     		}],
+      		"text": "于子之手，与子偕老，默契值增加伤害增加\n一技能清空法抗30秒并将命中目标率至身后一段距离\n一技能被动每层30法强\n制作人473570255\n上传人雪莉",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/182/182-smallskin-4.jpg"
+
+  		 },
+		{
+		"name": "李元芳",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/李元芳.fty-5-.txt",
+			"type": "5"
+            }, {
+			"url": "/Db/xueli/李元芳.fty-6-.txt",
+			"type": "6"
+     		}],
+      		"text": "黑夜才是密探的主场\n被动获取敌方视野，死亡失效\n一技能获得满额攻速40秒\n二技能无冷却无消耗无伤害\n制作人473570255\n上传人雪莉",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/173/173-smallskin-1.jpg"
 			}],
 	"娱乐功能2": [],
 	"雪莉制作": [{
