@@ -1,0 +1,46 @@
+{
+	"data": [
+		{
+			"value": "392762783",
+			"name": "叠加",
+			"lv": [
+				{
+					"value": "-804279736",
+					"offset": "4"
+				}
+			],
+			"set": [
+				{
+					"value": "1401422283",
+					"offset": "0",
+					"name": "3",
+					"diy": false
+				},
+				{
+					"value": "-2001836130",
+					"offset": "4",
+					"name": "5",
+					"diy": false
+				}
+			]
+		},
+		{
+			"value": "-804279736",
+			"name": "cd？",
+			"lv": [
+				{
+					"value": "1000",
+					"offset": "4"
+				}
+			],
+			"set": [
+				{
+					"value": "100",
+					"offset": "4",
+					"name": "68",
+					"diy": false
+				}
+			]
+		}
+	]
+}
