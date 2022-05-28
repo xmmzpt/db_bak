@@ -21,7 +21,7 @@
             }, {
 			"name": "装备无CD",
 			"url": "/Kele/装备脚本/装备无CD.kele",
-			"text": "装备无CD，价格伤害自己改，开启特别慢甚至卡顿",
+			"text": "装备无CD，100%卡死甚至闪退",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/itemimg/1111.jpg"
             }, {
 			"name": "复活甲无CD",
