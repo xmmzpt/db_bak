@@ -1,7 +1,7 @@
 {
 	"typelist": [{
-		"name": "上传列表（待分享)",
-		"text": "有还玩的脚本私聊雪莉帮你们上传",
+		"name": "雪莉定制DB",
+		"text": "有还玩的脚本私聊雪莉帮你们做",
 		"type": "db"
 }, {
 		"name": "雪莉制作",
@@ -13,11 +13,11 @@
 		"type": "db"
 	}],
 	"娱乐功能1": [],
-	"上传列表": [{
-			"name": "廉颇修改为其他英雄",
-			"url": "/Kele/英雄脚本/廉颇英雄",
-			"text": "输入你想修改的英雄代码，默认为坦克炮管",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/105/10500.png"
+	"雪莉定制DB": [{
+			"name": "名刀无CD",
+			"url": "/db/Kele/装备脚本/名刀.kele",
+			"text": "名刀无cd，价格伤害自己改",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/itemimg/1127.jpg"
 			}],
 	"娱乐功能2": [],
 	"雪莉制作": [{
