@@ -37,10 +37,10 @@
       	"name": "装备无CD",
 		"url": [{
 			"url": "/Kele/装备脚本/前半页.kele",
-			"type": "/"
+			"type": "1"
 		}, {
 			"url": "/Kele/装备脚本/后半页.kele",
-			"type": "/"
+			"type": "2"
 		}],
 		"text": "装备无CD",
 		"img": "https://game.gtimg.cn/images/yxzj/img201606/itemimg/1111.jpg"
