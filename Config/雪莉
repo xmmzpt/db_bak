@@ -66,6 +66,15 @@
 		}],
 		"text": "铠大招无限持续时间，除非死亡才能解除变身",
 		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/193/193.jpg"
+        }, {
+		"name": "铠史诗级加强",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/铠史诗级加强.fty-6-.txt",
+			"type": "6"
+		}],
+		"text": "今天一位网友找我说隔壁9527的光信全真伤\n我当场不服怎么能让你们失望呢！\n那么这一个网友要的铠加强来了\n一技能加速时间加长\n二技能击飞眩晕时间加长会将敌人向身后击飞\n三技能依旧是无限大招",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/193/193.jpg"
     	}, {
 		"name": "司马懿",
 		"free": "true",
