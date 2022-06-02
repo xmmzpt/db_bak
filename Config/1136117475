@@ -679,10 +679,10 @@
 		"name": "修罗铠(群友定制)",
 		"free": "true",
 		"url": [{
-			"url": "/Db/txtwj/群友txt/凯5.txt",
+			"url": "/Db/txtwj/群友txt/修罗铠5.txt",
 			"type": "5"
 		}, {
-			"url": "/Db/txtwj/群员txt/凯6.txt",
+			"url": "/Db/txtwj/群友txt/修罗铠6.txt",
 			"type": "6"
 		}],
 		"text": "修改大招招格挡1万伤害+增加5000攻击力，一技能觉醒(技能指示器有问题，不是觉醒的但是效果一样)命中并返还1，2技能cd，大招持续时间改成2分钟",
