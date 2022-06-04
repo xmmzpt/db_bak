@@ -127,14 +127,18 @@
 		"text": "澜无限平a",
 		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/528/528-smallskin-1.jpg"
         }, {
-		"name": "美猴王",
-		"free": "true",
-		"url": [{
-			"url": "/Db/xueli/美猴王.fty-6-.txt",
-			"type": "6"
-		}],
-		"text": "孙悟空想起了曾经观世音菩萨给的救命猴毛\n一技能：升级cd减少蓝量减少，获得护盾时间加长，移速时间加长，本人也看不出变化，并且可以召唤分身\n二技能：升级cd减少蓝量减少\n三技能：升级cd减少蓝量减少，击飞高度增加",
-		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/167/167-smallskin-4.jpg"
+	"name": "美猴王",
+	"free": "true",
+	"url": [{
+		"url": "/Db/xueli/美猴王.fty-5-.txt",
+		"type": "5"
+	}, {
+		"url": "/Db/xueli/美猴王.fty-6-.txt",
+		"type": "6"
+	}],
+	"text": "孙悟空想起了曾经观世音菩萨给的救命猴毛\n一技能：升级cd减少蓝量减少，获得护盾时间加长，移速时间加长，本人也看不出变化，并且可以召唤分身\n二技能：升级cd减少蓝量减少\n三技能：升级cd减少蓝量减少，击飞高度增加",
+	"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/167/167-smallskin-4.jpg"
+}
 			}],
 	"娱乐功能3": [],
 	"孩子不懂事改着玩的": [{
