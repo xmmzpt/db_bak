@@ -539,7 +539,7 @@
 		}],
 		"text": "白起觉醒全部技能",
 		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/120/120.jpg"
-        {
+       }, {
 		"name": "觉醒钟馗",
 		"free": "true",
 		"url": [{
