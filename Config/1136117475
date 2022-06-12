@@ -549,10 +549,10 @@
 		"name": "觉醒钟馗",
 		"free": "true",
 		"url": [{
-			"url": "/ Db / xueli / 觉醒钟馗-5-72.txt",
+			"url": "/Db/xueli/觉醒钟馗-5-72.txt",
 			"type": "5"
 		}, {
-			"url": "/ Db / xueli / 觉醒钟馗-6-72.txt",
+			"url": "/Db/xueli/觉醒钟馗-6-72.txt",
 			"type": "6"
 		}],
 		"text": "钟馗二技能觉醒（群友定制）",
@@ -561,10 +561,10 @@
 		"name": "觉醒芈月",
 		"free": "true",
 		"url": [{
-			"url": "/ Db / xueli / 觉醒芈月-5-72.txt",
+			"url": "/Db/xueli/觉醒芈月-5-72.txt",
 			"type": "5"
 		}, {
-			"url": "/ Db / xueli / 觉醒芈月-6-72.txt",
+			"url": "/Db/xueli/觉醒芈月-6-72.txt",
 			"type": "6"
 		}],
 		"text": "芈月技能觉醒（群友定制）",
