@@ -22,6 +22,11 @@
 	}],
 	"娱乐功能1": [],
 	"英雄脚本": [{
+			"name": "",
+			"url": "/Kele/英雄脚本/旧版宫本",
+			"text": "旧版宫本",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/130/130-smallskin-3.jpg"
+		},{
 			"name": "廉颇修改为其他英雄",
 			"url": "/Kele/英雄脚本/廉颇英雄",
 			"text": "输入你想修改的英雄代码，默认为坦克炮管",
