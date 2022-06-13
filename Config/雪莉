@@ -257,8 +257,7 @@
      		}],
       		"text": "于子之手，与子偕老，默契值增加伤害增加\n一技能清空法抗30秒并将命中目标率至身后一段距离\n一技能被动每层30法强\n制作人473570255\n上传人雪莉",
 		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/182/182-smallskin-4.jpg"
-
-  		 },
+ 		 },
 		{
 		"name": "李元芳",
 		"free": "true",
@@ -271,5 +270,28 @@
      		}],
       		"text": "黑夜才是密探的主场\n被动获取敌方视野，死亡失效\n一技能获得满额攻速40秒\n二技能无冷却无消耗无伤害\n制作人473570255\n上传人雪莉",
 		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/173/173-smallskin-1.jpg"
+        },
+		{
+		"name": "宫本武藏",
+		"free": "true",
+		"url": [{
+			"url": "/Db/xueli/宫本.fty-2-.txt",
+			"type": "2"
+            }, {
+			"url": "/Db/xueli/宫本.fty-6-.txt",
+			"type": "6"
+            }, {
+            "url": "/Db/xueli/宫本.fty-3-.txt",
+			"type": "3"
+            }, {
+            "url": "/Db/xueli/宫本.fty-5-.txtt",
+			"type": "5"
+            }, {
+            "url": "/Db/xueli/宫本.fty-13-.txt",
+			"type": "13"
+     		}],
+             
+      		"text": "无敌的我又回来了\n击杀刷新技能cd\n新泉增强\n制作人473570255\n上传人雪莉",
+		"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/130/130.jpg"
 		}]
 }
