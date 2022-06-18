@@ -266,7 +266,7 @@
 		{
 			"name": "无间傀儡",
 			"url": "/Kele/英雄脚本/元歌傀儡",
-			"text": "元歌一技能无CD\n傀儡血量暴击率攻速全满\n傀儡被打死无惩罚\n傀儡3技能控制修改\傀儡无范围限制",
+			"text": "元歌一技能无CD\n傀儡血量暴击率攻速全满\n傀儡被打死无惩罚\n傀儡3技能控制修改\傀儡无范围限制\n用了之后助手闪退的建议点制作db然后去添加自定义",
 			"img": "https://gitee.com/meaninglesspeople/wuhu/raw/master/u=1878653295,3087324847&fm=253&fmt=auto&app=138&f=JPEG.webp"
 		},
         {
