@@ -1,0 +1,4 @@
+[submodule "Config/xueli"]
+	url  = https://gitee.com/zeitu_admin/db
+	path = Config/xueli
+
