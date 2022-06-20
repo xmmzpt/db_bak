@@ -83,31 +83,31 @@
     },
     "skills_0":{
         "name":"普通攻击",
-        "type":"input",
+        "type":"skills",
         "offset":"192",
         "text":"英雄的普通攻击代码，乱改可能导致无法普攻"
     },
     "skills_1":{
         "name":"一号技能",
-        "type":"input",
+        "type":"skills",
         "offset":"212",
         "text":"英雄的第一个技能，改成0时英雄会隐藏掉此技能"
     },
     "skills_2":{
         "name":"二号技能",
-        "type":"input",
+        "type":"skills",
         "offset":"232",
         "text":"英雄的第二个技能，改成0时英雄会隐藏掉此技能"
     },
     "skills_3":{
         "name":"三号技能",
-        "type":"input",
+        "type":"skills",
         "offset":"252",
         "text":"英雄的第三个技能，也是三个技能的英雄的大招，改成0时英雄会隐藏掉此技能"
     },
     "skills_4":{
         "name":"四号技能",
-        "type":"input",
+        "type":"skills",
         "offset":"272",
         "text":"英雄的第四个技能，也是四个技能的英雄的大招，改成0时英雄会隐藏掉此技能"
     },
