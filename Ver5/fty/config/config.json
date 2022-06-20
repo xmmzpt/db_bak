@@ -1,4 +1,4 @@
 {
-    "hero":[],
+    "hero":["hp","mp","skills"],
     "skills":[]
 }
