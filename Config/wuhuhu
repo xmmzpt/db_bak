@@ -269,6 +269,12 @@
 			"text": "元歌一技能无CD\n傀儡血量暴击率攻速全满\n傀儡被打死无惩罚\n傀儡3技能控制修改\傀儡无范围限制\n用了之后助手闪退的建议点制作db然后去添加自定义",
 			"img": "https://gitee.com/meaninglesspeople/wuhu/raw/master/u=1878653295,3087324847&fm=253&fmt=auto&app=138&f=JPEG.webp"
 		},
+		{
+			"name": "诸葛亮魔改",
+			"url": "/Kele/英雄脚本/诸葛亮",
+			"text": "技能命中就出被动，二技能减速变眩晕，大招连续释放，击杀敌人刷新一三技能",
+			"img": "https://s4.ax1x.com/2022/01/14/78PqPg.png"
+		},
         {
 			"name": "李白大招不限制",
 			"url": "/Kele/英雄脚本/李白不限",
