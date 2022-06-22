@@ -1,17 +1,4 @@
 {
-	"data": [{
-			"code": "240",
-			"name": "关羽-冲锋姿态"
-		},
-		{
-			"code": "254",
-			"name": "花木兰-重剑形态"
-		}, {
-			"code": "330",
-			"name": "宫本武藏-强化状态"
-		}, {
-			"code": "801",
-			"name":  "召唤师技能"
-		}
+	"data": [{"ename":225,"code":"125","cname":"元歌","title":"傀儡","pay_type":10,"new_type":0,"hero_type":4,"skin_name":""}
 	]
 }
