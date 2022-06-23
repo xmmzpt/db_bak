@@ -1,4 +1,4 @@
 {
-    "hero":["avatar","model","model_size","hp","treat","attack","spell","defense","resistance","speed","speed_a","crit","crit_ratio","mp","skills_0","skills_1","skills_2","skills_3","skills_4"],
+    "hero":["all","avatar","model","model_size","hp","treat","attack","spell","defense","resistance","speed","speed_a","crit","crit_ratio","mp","skills_0","skills_1","skills_2","skills_3","skills_4"],
     "skills":[]
 }
