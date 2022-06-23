@@ -1,4 +1,9 @@
-{
+{   
+    "all":{
+        "name":"技能列表",
+        "type":"all",
+        "text":"展开与此英雄相关的技能列表"
+    },
     "avatar":{
         "name":"头像代码",
         "type":"input2",
