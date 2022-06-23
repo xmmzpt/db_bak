@@ -2,6 +2,7 @@
     "all":{
         "name":"技能列表",
         "type":"all",
+        "offset":"0",
         "text":"展开与此英雄相关的技能列表"
     },
     "avatar":{
