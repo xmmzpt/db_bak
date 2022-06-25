@@ -10,5 +10,17 @@
         "type":"num",
         "offset":"172",
         "text":"技能的CD时间，每1000点为1秒"
+    },
+    "hard_straight":{
+        "name":"技能后摇",
+        "type":"num",
+        "offset":"176",
+        "text":"改成-1即可取消后摇，对大部分技能有效"
+    },
+    "deplete":{
+        "name":"技能消耗",
+        "type":"num",
+        "offset":"316",
+        "text":"通常为技能的蓝耗，或能量消耗"
     }
 }
