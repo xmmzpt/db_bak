@@ -1,4 +1,5 @@
 {
-	"data": [{"ename":225,"code":"125","cname":"元歌","title":"傀儡","pay_type":10,"new_type":0,"hero_type":4,"skin_name":""}
+	"data": [{"ename":225,"code":"125","cname":"元歌","title":"傀儡","pay_type":10,"new_type":0,"hero_type":4,"skin_name":""},
+    {"ename":900,"code":"900","cname":"元1歌","title":"傀儡","pay_type":10,"new_type":0,"hero_type":4,"skin_name":""}
 	]
 }
