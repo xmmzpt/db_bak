@@ -5,11 +5,10 @@
         "offset":"0",
         "text":"展开与此技能相关的效果列表"
     },
-    "avatar":{
-        "name":"头像代码",
-        "type":"input2",
-        "offset":"48",
-        "offset2":"52",
-        "text":"不懂不建议修改此处，不然容易资源损坏"
+    "cd":{
+        "name":"技能CD",
+        "type":"num",
+        "offset":"172",
+        "text":"技能的CD时间，每1000点为1秒"
     }
 }
