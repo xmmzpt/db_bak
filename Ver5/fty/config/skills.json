@@ -13,7 +13,7 @@
     },
     "hard_straight":{
         "name":"技能后摇",
-        "type":"num",
+        "type":"后摇2",
         "offset":"176",
         "text":"改成-1即可取消后摇，对大部分技能有效"
     },
