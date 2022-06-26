@@ -7,5 +7,20 @@
     "skills":["all","cd","hard_straight","deplete","xg"],
     "skills_xg":["xg","rate"],
     "item":["money","price","attack","attack speed","hits","blood","spell","cd","mp","getmp","defense","resistance","hp","treat","speed","skills","skills_to"],
-    "ming":["xg","rate"]
+    "ming":["xg","rate"],
+    "ming_type":[
+        {
+            "name":"暴击",
+            "value":"1"   
+        },{
+            "name":"暴击",
+            "value":"1"   
+        },{
+            "name":"暴击",
+            "value":"1"   
+        },{
+            "name":"暴击",
+            "value":"1"   
+        }
+    ]
 }
