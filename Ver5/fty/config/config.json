@@ -7,20 +7,113 @@
     "skills":["all","cd","hard_straight","deplete","xg"],
     "skills_xg":["xg","rate"],
     "item":["money","price","attack","attack speed","hits","blood","spell","cd","mp","getmp","defense","resistance","hp","treat","speed","skills","skills_to"],
-    "ming":["xg","rate"],
+    "ming":["value1","value2","value3","value4","value5","value6","value7","value8","value9","value10","value11"],
     "ming_type":[
         {
-            "name":"暴击",
+            "name":"物攻",
             "value":"1"   
         },{
-            "name":"暴击2",
+            "name":"法攻",
             "value":"2"   
         },{
-            "name":"暴击3",
+            "name":"物防",
             "value":"3"   
         },{
-            "name":"暴击4",
+            "name":"法防",
             "value":"4"   
+        },{
+            "name":"生命值",
+            "value":"5"   
+        },{
+            "name":"爆击率",
+            "value":"6"   
+        },{
+            "name":"物穿",
+            "value":"7"   
+        },{
+            "name":"法穿",
+            "value":"10"   
+        },{
+            "name":"抗爆率",
+            "value":"11"   
+        },{
+            "name":"爆击效果",
+            "value":"12"   
+        },{
+            "name":"真伤",
+            "value":"13"   
+        },{
+            "name":"真伤减免",
+            "value":"14"   
+        },{
+            "name":"移速",
+            "value":"15"   
+        },{
+            "name":"每五秒回血",
+            "value":"16"   
+        },{
+            "name":"韧性",
+            "value":"17"   
+        },{
+            "name":"攻速",
+            "value":"18"   
+        },{
+            "name":"冷缩",
+            "value":"19"   
+        },{
+            "name":"视野",
+            "value":"20"   
+        },{
+            "name":"命中率",
+            "value":"21"   
+        },{
+            "name":"闪避率",
+            "value":"22"   
+        },{
+            "name":"爆击几率",
+            "value":"23"   
+        },{
+            "name":"抗爆几率",
+            "value":"24"   
+        },{
+            "name":"物吸",
+            "value":"25"   
+        },{
+            "name":"法吸",
+            "value":"26"   
+        },{
+            "name":"攻速加成",
+            "value":"27"   
+        },{
+            "name":"韧性",
+            "value":"28"   
+        },{
+            "name":"伤害减免",
+            "value":"29"   
+        },{
+            "name":"伤害加成",
+            "value":"30"   
+        },{
+            "name":"最大法力",
+            "value":"31"   
+        },{
+            "name":"每五秒回蓝",
+            "value":"32"   
+        },{
+            "name":"物理护甲穿透率",
+            "value":"33"   
+        },{
+            "name":"法术抗性穿透率",
+            "value":"34"   
+        },{
+            "name":"恢复效果",
+            "value":"35"   
+        },{
+            "name":"普攻强度",
+            "value":"36"   
+        },{
+            "name":"无名效果",
+            "value":"37"   
         }
     ]
 }
