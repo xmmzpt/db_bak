@@ -1,0 +1,68 @@
+{
+	 "value1":{
+		"name": "通用属性1",
+        "type":"ming_type",
+		"offset": "124",
+        "offset2": "120"
+	}, 
+    "value2":{
+		"name": "通用属性2",
+        "type":"ming_type",
+		"offset": "132",
+        "offset2": "128"
+	},
+    "value3":{
+		"name": "通用属性3",
+        "type":"ming_type",
+		"offset": "140",
+        "offset2": "136"
+	},
+    "value4":{
+		"name": "冒险属性1",
+        "type":"ming_type",
+		"offset": "152",
+        "offset2": "148"
+	},
+    "value5":{
+		"name": "冒险属性2",
+        "type":"ming_type",
+		"offset": "160",
+        "offset2": "156"
+	},
+    "value6":{
+		"name": "冒险属性3",
+        "type":"ming_type",
+		"offset": "168",
+        "offset2": "164"
+	},
+    "value7":{
+		"name": "冒险属性4",
+        "type":"ming_type",
+		"offset": "176",
+        "offset2": "172"
+	},
+    "value8":{
+		"name": "冒险属性5",
+        "type":"ming_type",
+		"offset": "184",
+        "offset2": "180"
+	},
+    "value19":{
+		"name": "冒险属性6",
+        "type":"ming_type",
+		"offset": "192",
+        "offset2": "188"
+	},
+    "value10":{
+		"name": "冒险属性7",
+        "type":"ming_type",
+		"offset": "200",
+        "offset2": "196"
+	},
+    "value11":{
+		"name": "冒险属性8",
+        "type":"ming_type",
+		"offset": "208",
+        "offset2": "204"
+	}
+}
