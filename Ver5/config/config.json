@@ -16,6 +16,22 @@
             "url":"/Ver5/fty/plan/sheshou0cd.ftys",
             "vip":"0"
         },{
+            "name":"复制一个内容到剪贴板",
+            "img":"",
+            "text":"点击后会复制内容到你的剪贴板",
+            "type":"copy",
+            "url":"123",
+            "vip":""
+        },{
+            "name":"跳转链接",
+            "img":"",
+            "text":"点击后会跳到百度",
+            "type":"url",
+            "url":"http://www.baidu.com",
+            "vip":""
+        }
+    ],
+    "1":[{
             "name":"列表功能",
             "img":"",
             "text":"",
@@ -27,20 +43,5 @@
                 }
             ],
             "vip":""
-        },{
-            "name":"复制是",
-            "img":"",
-            "text":"",
-            "type":"copy",
-            "url":"复制什么",
-            "vip":""
-        },{
-            "name":"帮助文档",
-            "img":"",
-            "text":"",
-            "type":"url",
-            "url":"http://www.baidu.com",
-            "vip":""
-        }
-    ]
+        }]
 }
