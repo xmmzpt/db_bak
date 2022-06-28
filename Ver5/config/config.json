@@ -27,6 +27,20 @@
                 }
             ],
             "vip":""
+        },{
+            "name":"复制是",
+            "img":"",
+            "text":"",
+            "type":"copy",
+            "url":"复制什么",
+            "vip":""
+        },{
+            "name":"帮助文档",
+            "img":"",
+            "text":"",
+            "type":"url",
+            "url":"http://www.baidu.com",
+            "vip":""
         }
     ]
 }
