@@ -1,14 +1,65 @@
 {
     "data":[
         {
-	"item_id": "756876418",
-    "code":"1154",
-	"item_name":"桂11影",
-	"item_type": 1,
-	"price": 474,
-	"total_price": 790,
-	"des1": "<p>+15%攻击速度</p>",
-	"des2": "<p>被动-专精(艾琳)：艾琳普攻间隔缩短20%，普攻射程增加50点。【叶舞·致意】和【旋舞·轻语】不再额外叠加月桂印记<br>失去专精装效果后,5分钟内不可再次购买</p>"
-}
+	    "item_id": "756876418",
+        "code":"1154",
+	    "item_name":"近·穿云弓",
+	    "item_type": 1
+	    },{
+	    "item_id": "11549",
+        "code":"1154",
+	    "item_name":"远·穿云弓",
+	    "item_type": 1
+	    },{
+	    "item_id": "739181671",
+        "code":"1127",
+	    "item_name":"近·名刀·司命",
+	    "item_type": 1
+	    },{
+	    "item_id": "11279",
+        "code":"1127",
+	    "item_name":"远·名刀·司命",
+	    "item_type": 1
+	    },{
+	    "item_id": "748356725",
+        "code":"1141",
+	    "item_name":"近·逐日之弓",
+	    "item_type": 1
+	    },{
+	    "item_id": "11549",
+        "code":"11419",
+	    "item_name":"远·逐日之弓",
+	    "item_type": 1
+	    },{
+	    "item_id": "757138563",
+        "code":"1155",
+	    "item_name":"近·破晓",
+	    "item_type": 1
+	    },{
+	    "item_id": "11553",
+        "code":"1155",
+	    "item_name":"远·破晓",
+	    "item_type": 1
+	    },{
+	    "item_id": "757662852",
+        "code":"1156",
+	    "item_name":"近·日渊",
+	    "item_type": 1
+	    },{
+	    "item_id": "11561",
+        "code":"1156",
+	    "item_name":"远·日渊",
+	    "item_type": 1
+	    },{
+	    "item_id": "872887294",
+        "code":"1131",
+	    "item_name":"近·冰痕之握",
+	    "item_type": 3
+	    },{
+	    "item_id": "11319",
+        "code":"1131",
+	    "item_name":"远·冰痕之握",
+	    "item_type": 3
+	    }
     ]
 }
