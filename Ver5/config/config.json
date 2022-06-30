@@ -35,7 +35,7 @@
         {
 			"name": "廉颇修改为其他英雄",
 			"url": "/Ver5/db/105_548.kele",
-            "type":"kele",
+            "type":"json",
 			"text": "输入你想修改的英雄代码，默认为戈娅",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/105/10500.png"
 		}
