@@ -29,7 +29,19 @@
             "type":"url",
             "url":"http://www.baidu.com",
             "vip":""
-        }
+        },{
+			"name": "单机模式全皮肤S28",
+            "type":"db",
+			"url": [{
+				"url": "/Db/pifu/p11.txt",
+				"type": "0" //单机皮
+			}, {
+				"url": "/Db/pifu/p12.txt",
+				"type": "1" //新皮肤
+			}],
+			"text": "解锁选区界面右边单机模式全皮肤\n解禁韩信武则天\n新增花木兰典藏，沈梦溪赛季皮，王昭君、狂铁战令皮\n皮肤错位、锁画质的说明你没重新初始化，初始化后仍然错位请看软件首页更新日志，日志里没写的说明还没更新",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/154/154-smallskin-9.jpg"
+		}
     ],
     "英雄脚本":[
         {
