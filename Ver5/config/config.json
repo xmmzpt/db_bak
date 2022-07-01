@@ -1,5 +1,5 @@
 {
-    "list":["预置功能"],
+    "list":["预置功能","战令功能"],
     "预置功能":[
         {
             "name":"经典全皮肤方案",//功能名称
@@ -55,17 +55,18 @@
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/105/10500.png"
 		}
     ],
-    "1":[{
-            "name":"列表功能",
-            "img":"",
-            "text":"",
+    "战令功能":[{
+			"name": "1v1秒赢（新）S26",
+			"url": [{
+				"url": "/Db/miaoying/miaoying1.txt",
+				"type": "7" //红塔1血
+			}, {
+				"url": "/Db/miaoying/miaoying2.txt",
+				"type": "9" //蓝兵时间
+			}],
+			"text": "新思路15秒直接赢\n仅供人机模式使用",
+			"img": "https://z3.ax1x.com/2021/04/19/cTSWcR.png",
             "type":"db",
-            "url":[
-                {
-                    "url":"",
-                    "type":""
-                }
-            ],
-            "vip":""
-        }]
+            "vip":"3"
+		}]
 }
