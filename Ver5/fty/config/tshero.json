@@ -1,6 +1,5 @@
 {
 	"data": [
-        {"ename":225,"code":"125","cname":"元歌","title":"傀儡","pay_type":10,"new_type":0,"hero_type":4,"skin_name":""},
-        {"ename":801,"code":"801","cname":"召唤师","title":"召唤师技能","pay_type":10,"new_type":0,"hero_type":0,"skin_name":""}
+        {"ename":225,"code":"125","cname":"元歌","title":"傀儡","pay_type":10,"new_type":0,"hero_type":4,"skin_name":""}
 	]
 }
