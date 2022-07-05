@@ -22,32 +22,20 @@
             "url":"/Ver5/fty/plan/sheshou0cd.ftys",
             "vip":"0"
         },{
-            "name":"复制一个内容到剪贴板",
+            "name":"复制群号",
             "img":"",
-            "text":"点击后会复制内容到你的剪贴板",
+            "text":"点击后会复制群号到你的剪贴板",
             "type":"copy",
-            "url":"123",
+            "url":"8018708",
             "vip":""
         },{
-            "name":"跳转链接",
+            "name":"跳转教程",
             "img":"",
-            "text":"点击后会跳到百度",
+            "text":"点击后会跳到教程界面",
             "type":"url",
-            "url":"http://www.baidu.com",
+            "url":"https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W4Q5LF&appChannel=share&businessType=10&from=246610&biz=ka",
             "vip":""
         },{
-			"name": "单机模式全皮肤S28",
-            "type":"db",
-			"url": [{
-				"url": "/Db/pifu/p11.txt",
-				"type": "0" //单机皮
-			}, {
-				"url": "/Db/pifu/p12.txt",
-				"type": "1" //新皮肤
-			}],
-			"text": "解锁选区界面右边单机模式全皮肤\n解禁韩信武则天\n新增花木兰典藏，沈梦溪赛季皮，王昭君、狂铁战令皮\n皮肤错位、锁画质的说明你没重新初始化，初始化后仍然错位请看软件首页更新日志，日志里没写的说明还没更新",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/154/154-smallskin-9.jpg"
-		},{
 			"name": "廉颇修改为其他英雄",
 			"url": "/Ver5/db/廉颇改戈娅.kele",
             "type":"json",
