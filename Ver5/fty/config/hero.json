@@ -87,17 +87,59 @@
         "max":"15000",
         "text":"英雄的额外暴击效果，每100点为1%，上限150%"
     },
+    "skills_bei_1":{
+        "name":"被动技能1",
+        "type":"skills",
+        "offset":"160",
+        "text":"英雄的被动技能代码"
+    },
+    "skills_bei_2":{
+        "name":"被动技能2",
+        "type":"skills",
+        "offset":"164",
+        "text":"英雄的被动技能代码"
+    },
+    "skills_bei_3":{
+        "name":"被动技能3",
+        "type":"skills",
+        "offset":"168",
+        "text":"英雄的被动技能代码"
+    },
+    "skills_bei_4":{
+        "name":"被动技能4",
+        "type":"skills",
+        "offset":"172",
+        "text":"英雄的被动技能代码"
+    },
+    "skills_bei_5":{
+        "name":"被动技能5",
+        "type":"skills",
+        "offset":"176",
+        "text":"英雄的被动技能代码"
+    },
     "skills_0":{
         "name":"普通攻击",
         "type":"skills",
         "offset":"192",
         "text":"英雄的普通攻击代码，乱改可能导致无法普攻"
     },
+    "skills_0_bei":{
+        "name":"普通被动",
+        "type":"skills",
+        "offset":"196",
+        "text":"普攻的被动（也许）"
+    },
     "skills_1":{
         "name":"一号技能",
         "type":"skills",
         "offset":"212",
         "text":"英雄的第一个技能，改成0时英雄会隐藏掉此技能"
+    },
+    "skills_1_bei":{
+        "name":"一号技能被动",
+        "type":"skills",
+        "offset":"216",
+        "text":"学习技能获得的被动"
     },
     "skills_1_1":{
         "name":"一号技能无需学习",
@@ -117,6 +159,12 @@
         "offset":"232",
         "text":"英雄的第二个技能，改成0时英雄会隐藏掉此技能"
     },
+    "skills_2_bei":{
+        "name":"二号技能被动",
+        "type":"skills",
+        "offset":"236",
+        "text":"学习技能获得的被动"
+    },
     "skills_2_1":{
         "name":"二号技能无需学习",
         "type":"num",
@@ -135,6 +183,12 @@
         "offset":"252",
         "text":"英雄的第三个技能，也是三个技能的英雄的大招，改成0时英雄会隐藏掉此技能"
     },
+    "skills_3_bei":{
+        "name":"三号技能被动",
+        "type":"skills",
+        "offset":"256",
+        "text":"学习技能获得的被动"
+    },
     "skills_3_1":{
         "name":"三号技能无需学习",
         "type":"num",
@@ -152,6 +206,12 @@
         "type":"skills",
         "offset":"272",
         "text":"英雄的第四个技能，也是四个技能的英雄的大招，改成0时英雄会隐藏掉此技能"
+    },
+    "skills_4_bei":{
+        "name":"四号技能被动",
+        "type":"skills",
+        "offset":"276",
+        "text":"学习技能获得的被动"
     },
     "skills_4_1":{
         "name":"四号技能无需学习",
