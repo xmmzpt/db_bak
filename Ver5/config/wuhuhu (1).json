@@ -1,0 +1,146 @@
+{
+    "list":["雄脚本","装备脚本","模式脚本"],
+    "雄脚本":[
+        {
+			"name": "无间傀儡",
+			"url": "/Kele/英雄脚本/元歌傀儡",
+			"text": "元歌一技能无CD\n傀儡血量暴击率攻速全满\n傀儡被打死无惩罚\n傀儡3技能控制修改\n傀儡无范围限制\n用了之后助手闪退的建议点制作db然后去添加自定义",
+			"img": "https://gitee.com/meaninglesspeople/wuhu/raw/master/u=1878653295,3087324847&fm=253&fmt=auto&app=138&f=JPEG.webp",
+            "type":"json"
+		},
+		{
+			"name": "关羽冰封战神冻人",
+			"url": "/Kele/英雄脚本/冰封冻人",
+			"text": "作者1612616349",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/140/140-smallskin-4.jpg",
+            "type":"json"
+		},
+		{
+			"name": "小明—技能击飞",
+			"url": "/Kele/英雄脚本/小明击飞",
+			"text": "小明—技能牵人减速改成向自己面朝方向击飞,放风筝咯",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/501/50110.png",
+            "type":"json"
+		},
+		{
+			"name": "猴子无限棍",
+			"url": "/Kele/英雄脚本/猴子无限",
+			"text": "功能就是名字",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/167/16700.png",
+            "type":"json"
+		},
+		{
+			"name": "狄仁杰叠加二技能",
+			"url": "/Kele/英雄脚本/狄仁杰叠",
+			"text": "没啥好玩的，就是狄仁杰放一次二技能后一直放二技能，还容易掉帧",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/133/13320.png",
+            "type":"json"
+		},
+        {
+			"name": "核弹猫",
+			"url": "/Kele/英雄脚本/核弹猫",
+			"text": "沈梦溪加速状态下一技能命中目标后会自动释放加速状态下一技能",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/312/31210.png",
+            "type":"json"
+		},
+        {
+			"name": "回城可移动",
+			"url": "/Kele/英雄脚本/移动回城",
+			"text": "可移动回城不可被打断",
+			"img": "",
+            "type":"json"
+		},
+		{
+			"name": "诸葛亮魔改",
+			"url": "/Kele/英雄脚本/诸葛亮",
+			"text": "技能命中就出被动，二技能减速变眩晕，大招连续释放，击杀敌人刷新一三技能",
+			"img": "https://s4.ax1x.com/2022/01/14/78PqPg.png",
+            "type":"json"
+		},
+        {
+			"name": "李白大招不限制",
+			"url": "/Kele/英雄脚本/李白不限",
+			"text": "去除李白大招的禁用效果",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/131/13130.png",
+            "type":"json"
+		},
+		{
+			"name": "西施无限拉人",
+			"url": "/Kele/英雄脚本/西施拉人",
+			"text": "西施无限拉人，必须普攻才能触发二段\n此脚本由群友通过匿名提问箱投稿 9527 制作",
+			"img": "https://tse4-mm.cn.bing.net/th/id/OIP-C.c5AjNdIYh8pn6nsxcffpYgAAAA?w=180&h=180&c=7&r=0&o=5&pid=1.7",
+            "type":"json"
+		},
+		{
+			"name": "刘邦无限套盾",
+			"url": "/Kele/英雄脚本/刘邦护盾",
+			"text": "如果护盾被击破将自动为刘邦继续开启一个护盾，若护盾自然结束或手动结束，则不会继续套盾\n此脚本由 9527 制作",
+			"img": "http://game.gtimg.cn/images/yxzj/img201606/heroimg/149/14910.png",
+            "type":"json"
+		},
+		{
+			"name": "干将自动放剑",
+			"free": "true",
+			"url": "/Kele/英雄脚本/ 干将放剑",
+			"text": "作者1612616349",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/182/182.jpg",
+            "type":"json"
+		},
+		{
+			"name": "凯普攻真伤",
+			"free": "true",
+			"url": "/Kele/英雄脚本/凯普真伤",
+			"text": "开普攻变成真伤，并且提高初始暴击率，大招无CD旦可以在被控制时使用",
+			"img": "https://s4.ax1x.com/2021/12/07/ogl1Wn.png",
+            "type":"json"
+		},
+		{
+			"name": "澜强化普攻",
+			"url": "/Kele/英雄脚本/澜强普攻",
+			"text": "此脚本由一群2468799037制作",
+			"img": "https://z3.ax1x.com/2021/11/18/ITctgI.png",
+            "type":"json"
+		},
+		{
+			"name": "哪吒大招“透视”",
+			"url": "/Kele/英雄脚本/哪吒透视",
+			"text": "哪吒大招获取视野时间变长\n 9527 制作",
+			"img": "https://z3.ax1x.com/2021/11/23/oSOvod.png",
+            "type":"json"
+		},
+		{
+			"name": "献祭流司马懿",
+			"url": "/Kele/英雄脚本/献祭司马",
+			"text": "此脚本由三群1136117475制作",
+			"img": "https://z3.ax1x.com/2021/11/20/IL51sO.png",
+            "type":"json"
+		},
+		{
+			"name": "守约移动拉人",
+			"url": "/Kele/英雄脚本/守约移动",
+			"text": "此脚本由三群1136117475制作",
+			"img": "https://s4.ax1x.com/2022/01/16/7NnS4H.png",
+            "type":"json"
+		},
+		{
+			"name": "达摩无限大",
+			"url": "/Kele/英雄脚本/达摩无限",
+			"text": "此脚本由三群1136117475制作",
+			"img": "https://z3.ax1x.com/2021/11/17/IIeGY6.png",
+            "type":"json"
+		},
+		{
+			"name": "李白全技能真伤",
+			"url": "/Kele/英雄脚本/李白真伤",
+			"text": "大招也解禁了，去tmd反甲\n此脚本由3063488414制作",
+			"img": "https://z3.ax1x.com/2021/11/23/oSvgQP.png",
+            "type":"json"
+		},
+		{
+			"name": "李白大招无限刮",
+			"url": "/Kele/英雄脚本/李白大刮",
+			"text": "1.李白普攻变成大招，但同时大招会无法解锁\n2.被大招命中的敌人会有一段影子一直刮\n3.注意:大招不能打塔(你都开这个了,该不会还会输吧?)",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/131/13130.png",
+            "type":"json"
+		}
+    ]}
