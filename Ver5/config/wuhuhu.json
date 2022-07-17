@@ -143,4 +143,11 @@
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/131/13130.png",
             "type":"json"
 		}
-    ]}
+    ],
+    "模式脚本":[{
+			"name": "单机全图视野",
+			"url": "/Kele/模式脚本/全图视野",
+			"text": "只能单机5v5用",
+			"img": "https://s4.ax1x.com/2022/01/16/7NnS4H.png",
+            "type":"json"
+		}]}
