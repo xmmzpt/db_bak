@@ -1,11 +1,17 @@
 {
     "list":["便捷功能","觉醒之战","群友功能"],
     "便捷功能":[{
-            "name":"跳转定制群",
+            "name":"跳转定制QQ群",
             "img":"http://p.qlogo.cn/gh/736586001/736586001/100/",
-            "text":"点击后会跳到定制群",
+            "text":"点击后会跳到定制QQ群",
             "type":"url",
             "url":"https://qm.qq.com/cgi-bin/qm/qr?k=wPqqN6Fwh55z8FOGkH1ucOqRdAmReHff&group_code=736586001"
+        },{
+            "name":"跳转QQ聊天频道",
+            "img":"http://p.qlogo.cn/gh/736586001/736586001/100/",
+            "text":"点击后会跳到邀请二维码QQ频道\nQQ扫一扫后即可添加",
+            "type":"url",
+            "url":"http://cdn.u1.huluxia.com/g4/M01/5E/22/rBAAdmLerPSATJr9AALXJFEU0W0367.jpg"
         }],
     "觉醒之战":[
         {
@@ -33,6 +39,13 @@
 			"name": "单机透视",
 			"url": "/txtwj/新5/群友功能/单机透视.kele",
 			"text": "单机1v1，5v5均获取所有生物的视野",
+			"img": "",
+            "type":"json",
+            "vip":"1"
+		},{
+			"name": "名刀无cd",
+			"url": "/txtwj/新5/群友功能/名刀无cd.kele",
+			"text": "效果如题",
 			"img": "",
             "type":"json",
             "vip":"1"
