@@ -42,5 +42,12 @@
 			"img": "",
             "type":"json",
             "vip":"1"
+		},{
+			"name": "名刀无cd",
+			"url": "/txtwj/新5/群友功能/名刀无cd.kele",
+			"text": "效果如题",
+			"img": "",
+            "type":"json",
+            "vip":"1"
 		}]
     }
