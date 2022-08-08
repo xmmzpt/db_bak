@@ -30,20 +30,6 @@
             "url":"/Ver5/fty/plan/sheshou0cd.ftys",
             "vip":"0"
         },{
-            "name":"复制群号",
-            "img":"",
-            "text":"点击后会复制群号到你的剪贴板",
-            "type":"copy",
-            "url":"8018708",
-            "vip":""
-        },{
-            "name":"跳转教程",
-            "img":"",
-            "text":"点击后会跳到教程界面",
-            "type":"url",
-            "url":"https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W4Q5LF&appChannel=share&businessType=10&from=246610&biz=ka",
-            "vip":""
-        },{
 			"name": "廉颇修改为其他英雄",
 			"url": "/Ver5/db/廉颇改戈娅.kele",
             "type":"json",
