@@ -12,8 +12,8 @@ body,ul,li,h2,h3,div{margin:0;padding:0;border:0;};
 body{font-size:12px; font-family:"Microsoft YaHei";};
 ul{list-style-type:none;};
 a{text-decoration:none;};
-body{background:url(./images/bg.png) left top repeat;};
-font-face {
+//body{background:url(./images/bg.png) left top repeat;};
+@font-face {
     font-weight: normal;
     font-style: normal;
 }
@@ -105,12 +105,12 @@ font-face {
 -moz-animation:1s .2s ease both;
 }
 
--webkit-keyframes shake{
+@-webkit-keyframes shake{
 0%,100%{-webkit-transform:translateX(0);}
 20%,60%{-webkit-transform:translateX(-10px);}
 40%,80%{-webkit-transform:translateX(10px);}
 }
--moz-keyframes shake{
+@-moz-keyframes shake{
 0%,100%{-moz-transform:translateX(0);}
 20%,60%{-moz-transform:translateX(-10px);}
 40%,80%{-moz-transform:translateX(10px);}
