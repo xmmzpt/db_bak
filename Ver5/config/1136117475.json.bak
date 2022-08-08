@@ -4,8 +4,8 @@
             "name":"跳转定制QQ群",
             "img":"http://p.qlogo.cn/gh/736586001/736586001/100/",
             "text":"点击后会跳到定制QQ群",
-            "type":"url",
-            "url":"https://qm.qq.com/cgi-bin/qm/qr?k=wPqqN6Fwh55z8FOGkH1ucOqRdAmReHff&group_code=736586001"
+            "type":"group",
+            "url":"PGwmPF0VwiSx05bJkULTybS8hJvTs5lF"
         },{
             "name":"跳转QQ聊天频道",
             "img":"http://p.qlogo.cn/gh/736586001/736586001/100/",
