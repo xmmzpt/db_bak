@@ -122,6 +122,14 @@
 			"img": "https://s4.ax1x.com/2022/01/16/7NnS4H.png",
             "type":"json"
 		},
+		
+		{
+			"name": "守约一技能变炮台",
+			"url": "/Kele/英雄脚本/守约炮台",
+			"text": "守约一技能的🥚的模型变成守约并且无限释放2技能",
+			"img": "https://s4.ax1x.com/2022/01/16/7NnS4H.png",
+            "type":"json"
+		},
 		{
 			"name": "达摩无限大",
 			"url": "/Kele/英雄脚本/达摩无限",
