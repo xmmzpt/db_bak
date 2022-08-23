@@ -1,18 +1,14 @@
 {
     "list":["模式地图（包含玩法）"],
     "模式地图（包含玩法）":[{
-			"name": "单机透视",
-			"url": "/txtwj/新5/群友功能/单机透视.kele",
-			"text": "单机1v1，5v5均获取所有生物的视野",
-			"img": "",
-            "type":"json",
-            "vip":"1"
-		},{
-			"name": "名刀无cd",
-			"url": "/txtwj/新5/群友功能/名刀无cd.kele",
-			"text": "效果如题",
-			"img": "",
-            "type":"json",
+			"name": "火焰山大战",
+				"url": [{
+				"url": "/Db/9527/模式地图/无限乱斗-0.txt",
+				"type": "8"
+			}],
+			"text": "火焰山大战",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/168/168.jpg",
+            "type":"db",
             "vip":"1"
 		}]
     }
