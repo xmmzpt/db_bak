@@ -3,10 +3,20 @@
     "模式地图（包含玩法）":[{
 			"name": "火焰山大战",
 				"url": [{
-				"url": "/Db/9527/模式地图/无限乱斗-0.txt",
+				"url": "/Db/9527/模式地图/火焰山大战-0.txt",
 				"type": "8"
 			}],
 			"text": "火焰山大战",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/168/168.jpg",
+            "type":"db",
+            "vip":"1"
+		},{
+			"name": "无限乱斗",
+				"url": [{
+				"url": "/Db/9527/模式地图/无限乱斗-0.txt",
+				"type": "8"
+			}],
+			"text": "无限乱斗",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/168/168.jpg",
             "type":"db",
             "vip":"1"
