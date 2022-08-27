@@ -1,17 +1,38 @@
-17586
-地图代码|7d72211654|4|4e31|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|13654
-Var #7D7221165C|7d7221165c|4|6ce097ea|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|1365c
-Var #7D72211660|7d72211660|4|e7ce7a48|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|13660
-Var #7D72211664|7d72211664|4|9faefc39|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|13664
-Var #7D72211668|7d72211668|4|a707861f|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|13668
-经验|7d722117ac|4|400|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|137ac
-Var #7D722117E8|7d722117e8|4|0|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|137e8
-Var #7D72211800|7d72211800|4|2|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|13800
-金币|7d72211804|4|3e8|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|13804
-Var #7D7221184C|7d7221184c|4|100000d|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|1384c
-装备原价出售|7d72211888|4|64|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|13888
-Var #7D72211894|7d72211894|4|5179e3b3|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|13894
-Var #7D72211898|7d72211898|4|4e34f94f|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|13898
-Var #7D7221189C|7d7221189c|4|f672ae64|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|1389c
-Var #7D722118A0|7d722118a0|4|242c5c23|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|138a0
-Var #7D722118D0|7d722118d0|4|e|0|0|0|0|r--p|/data/user/0/com.tencent.tmgp.sgame/files/dataCache.db|138d0
+
+6209
+|||9faefc39|||||||13664
+|||a707861f|||||||13668
+|||0|||||||136bc
+|||c|||||||13708
+|||1|||||||13798
+|||1b58|||||||137a4
+|||400|||||||137ac
+|||1|||||||137b0
+|||0|||||||137d4
+|||3|||||||137e0
+|||0|||||||137e8
+|||2|||||||13800
+|||3e8|||||||13804
+|||3d390c|||||||13808
+|||3d390d|||||||1380c
+|||6ce097ea|||||||13844
+|||e7ce7a48|||||||13848
+|||100000d|||||||1384c
+|||100|||||||13870
+|||0|||||||13874
+|||0|||||||13878
+|||64|||||||13888
+|||5179e3b3|||||||13894
+|||4e34f94f|||||||13898
+|||f672ae64|||||||1389c
+|||242c5c23|||||||138a0
+|||b000000|||||||138c4
+|||e|||||||138d0
+|||0|||||||138dc
+|||1|||||||1390c
+|||3000001|||||||13944
+|||6|||||||13968
+|||1|||||||13988
+|||0|||||||13990
+|||0|||||||139e0
+|||70101|||||||139f4
