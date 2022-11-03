@@ -15,14 +15,7 @@
             "type":"fty",//功能分类：pifu为皮肤编辑器方案，fty为新工厂方案，db为列表功能，json为脚本，url为访问url的链接，copy为复制url里的内容
             "url":"/Ver5/fty/plan/plan1.json",//功能链接
             "vip":"0"//此功能的VIP需求：0为无要求，1为需要登录，2为需要绑定，3为工厂会员，4为助手会员，不填默认为0,工厂和皮肤编辑器方案最低要求为2
-        },
-        {
-			"name": "瑶妹情人节限定索引修复",
-			"url": "/Db/pifu/505.txt",
-			"text": "先开启全皮肤并替换DB，再执行此功能,替换时选择游戏正在运行即可",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/505/505-smallskin-4.jpg",
-            "type":"json"
-		},{
+        },{
             "name":"工厂射手无CD方案",
             "img":"https://game.gtimg.cn/images/yxzj/img201606/heroimg/155/155.jpg",
             "text":"所有射手技能无CD",
