@@ -1,7 +1,7 @@
 {
     "list":["打人机（new!）","无限觉醒玩法","便捷功能","觉醒之战","群友功能"],
     "打人机（new!）":[{
-			"name": "打人机(已修复于12月19日)",
+			"name": "打人机(已失效)",
 			"url": [{
 				"url": "/txtwj/8.txt",
 				"type": "8"
@@ -41,17 +41,11 @@
             "vip":"2"
 		}],
     "便捷功能":[{
-            "name":"跳转定制QQ群1群",
+            "name":"跳转定制QQ群",
             "img":"http://p.qlogo.cn/gh/736586001/736586001/100/",
-            "text":"点击后会跳到定制QQ群1群，二满了，或者加频道",
+            "text":"点击后会跳到定制QQ群",
             "type":"group",
-            "url" :"EpWq42RwDKVGLOYfZgFM7vj9G3aTUxPW"
-        },{
-            "name":"已过期，跳转QQ聊天频道",
-            "img":"http://cdn.u1.huluxia.com/g4/M02/90/8F/rBAAdmMLdWaAALQ6ACtJMDSNQQo121.png",
-            "text":"点击后会跳到邀请二维码QQ频道\nQQ扫一扫后即可添加",
-            "type":"url",
-            "url":"http://cdn.u1.huluxia.com/g4/M01/90/8F/rBAAdmMLdb2AD1sBAAPhG6uOPcw582.jpg"
+            "url" :"rgIwVmslpUikcFGhtRVUx6M_JoJoZBrP"
         }],
     "觉醒之战":[
         {
