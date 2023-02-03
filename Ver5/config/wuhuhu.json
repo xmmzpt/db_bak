@@ -156,7 +156,7 @@
         			"name": "单机5v5训练营",
             		"free": "true",
             		"url": "/Kele/模式脚本/ 单机训练营",
-          			"text": "单机5v5模式添加训练营选项与小地图传说，但是好像只有加金币和无cd能用😅，"                    			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/182/182.jpg",
+          			"text": "单机5v5模式添加训练营选项与小地图传说，但是好像只有加金币和无cd能用😅",                   			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/182/182.jpg",
                     "type":"json"                		},{
 			"name": "单机全图视野",
 			"url": "/Kele/模式脚本/全图视野",
