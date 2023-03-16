@@ -1,1 +1,1 @@
-http://api2.eeenn.cn/public
+https://api2.eeenn.cn/public
